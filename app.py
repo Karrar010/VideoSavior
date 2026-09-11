@@ -276,4 +276,12 @@ if __name__ == "__main__":
     # use_reloader=False: the reloader restarts the whole process on any watched
     # file change, which aborts in-flight downloads. Downloads can run for minutes,
     # so this app can't tolerate that mid-request.
-    app.run(debug=True, use_reloader=False, port=5050)
+    # threaded=True: downloads can run for minutes, so a second request (e.g. a
+    # health check or another download) must not block behind one in flight.
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 5050)),
+        debug=os.environ.get("FLASK_DEBUG") == "1",
+        use_reloader=False,
+        threaded=True,
+    )

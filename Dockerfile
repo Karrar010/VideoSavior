@@ -9,4 +9,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 EXPOSE 5050
-CMD ["python", "-m", "flask", "--app", "app", "run", "--host=0.0.0.0", "--port=5050"]
+CMD ["python", "app.py"]
