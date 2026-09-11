@@ -1,0 +1,8276 @@
+[
+{
+"name": "10play",
+"desc": "10play (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "17live",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "1News",
+"desc": "1news.co.nz article videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "1tv",
+"desc": "Первый канал",
+"type": "Video",
+"broken": false
+},
+{
+"name": "20min",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "23video",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "247sports",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "24tv.ua",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "3qsdn",
+"desc": "3Q SDN",
+"type": "Video",
+"broken": false
+},
+{
+"name": "3sat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "4tube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "56.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "7plus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "9c9media",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "9gag",
+"desc": "9GAG",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "9News",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "9now.com.au",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "abc.net.au",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "abcnews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "abcotvs",
+"desc": "ABC Owned Television Stations",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AbemaTV",
+"desc": "abematv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AbemaTVTitle",
+"desc": "abematv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AcademicEarth",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "acast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "AcFunBangumi",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AcFunVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ADN",
+"desc": "animationdigitalnetwork (netrc machine) Animation Digital Network",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ADNSeason",
+"desc": "animationdigitalnetwork (netrc machine) Animation Digital Network",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AdobeConnect",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "adobetv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AdultSwim",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "aenetworks",
+"desc": "A+E Networks: A&E, Lifetime, History.com, FYI Network and History Vault",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AeonCo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "agalega",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AitubeKZVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Alibaba",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AliExpressLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AlJazeera",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Allocine",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Allstar",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AllstarProfile",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AlphaPorno",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "altcensored",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Alura",
+"desc": "alura (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AluraCourse",
+"desc": "aluracourse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmadeusTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Amara",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmazonMiniTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "amazonminitv",
+"desc": "Amazon MiniTV Season, \"minitv:season:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmazonReviews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmazonStore",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AMCNetworks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmericasTestKitchen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmericasTestKitchenSeason",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AmHistoryChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "anderetijden",
+"desc": "npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Angel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AnimalPlanet",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ant1newsgr",
+"desc": "ant1news.gr articles",
+"type": "Video",
+"broken": false
+},
+{
+"name": "antenna",
+"desc": "antenna.gr and ant1news.gr videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Anvato",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "aol.com",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "APA",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Aparat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "apple",
+"desc": "Apple Music Connect",
+"type": "Video",
+"broken": false
+},
+{
+"name": "archive.org",
+"desc": "archive.org video and audio",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ArcPublishing",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ARDAudiothek",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ARDAudiothekPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ARDMediathek",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ARDMediathekCollection",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Art19",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Art19Show",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "arte.sky.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ArteTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ArteTVCategory",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ArteTVEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ArteTVPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "asobichannel",
+"desc": "ASOBI CHANNEL",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AsobiStage",
+"desc": "ASOBISTAGE (アソビステージ)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AtresPlayer",
+"desc": "atresplayer (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AtScaleConfEvent",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AudiMedia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "AudioBoom",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Audiodraft",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "audiomack",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Audius",
+"desc": "Audius.co",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "audius",
+"desc": "Audius.co profile/artist pages",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "AZMedien",
+"desc": "AZ Medien videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BaiduVideo",
+"desc": "百度视频",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BanBye",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BanByeChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bandcamp",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Bandlab",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BandlabPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BannedVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bbc",
+"desc": "bbc (netrc machine) BBC",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bbc.co.uk",
+"desc": "bbc (netrc machine) BBC iPlayer",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BBVTV",
+"desc": "bbvtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BBVTVLive",
+"desc": "bbvtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BBVTVRecordings",
+"desc": "bbvtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BeaconTv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Beatport",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Beeg",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BehindKink",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "BerufeTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bet",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bfi",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bfmtv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bibeltv",
+"desc": "BibelTV live program",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bigo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bild",
+"desc": "Bild.de",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBili",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bilibili category extractor",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliAudio",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliAudioAlbum",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliBangumi",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliBangumiMedia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliBangumiSeason",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliCheese",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliCheeseSeason",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliCollectionList",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliDynamic",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliFavoritesList",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliPlayer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliBiliSearch",
+"desc": "Bilibili video search; \"bilisearch:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliSeriesList",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliSpaceAudio",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliSpaceVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BilibiliWatchlater",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliIntl",
+"desc": "biliintl (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "biliIntl",
+"desc": "biliintl (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BiliLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BioBioChileTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Biography",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BitChute",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BitChuteChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bitmovin",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BlackboardCollaborate",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BlackboardCollaborateLaunch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BleacherReport",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "BleacherReportCMS",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "blerp",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "blogger.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bloomberg",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bluesky",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BongaCams",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Boosty",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BostonGlobe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Box",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BoxCastVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bpb",
+"desc": "Bundeszentrale für politische Bildung",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BR",
+"desc": "Bayerischer Rundfunk",
+"type": "Video",
+"broken": true
+},
+{
+"name": "BrainPOP",
+"desc": "brainpop (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BrainPOPELL",
+"desc": "brainpop (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BrainPOPEsp",
+"desc": "brainpop (netrc machine) BrainPOP Español",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BrainPOPFr",
+"desc": "brainpop (netrc machine) BrainPOP Français",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BrainPOPIl",
+"desc": "brainpop (netrc machine) BrainPOP Hebrew",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BrainPOPJr",
+"desc": "brainpop (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BravoTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BreitBart",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "brightcove",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Brilliantpala",
+"desc": "brilliantpala (netrc machine) VoD on classes.brilliantpala.org",
+"type": "Video",
+"broken": false
+},
+{
+"name": "bt",
+"desc": "Bergens Tidende Articles",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BTVPlus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bundesliga",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Bundestag",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BunnyCdn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BusinessInsider",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BuzzFeed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "BYUtv",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Caltrans",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CAM4",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CamFMEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CamFMShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CamModels",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Camsoda",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CamtasiaEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Canal1",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CanalAlpha",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "canalc2.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Canalplus",
+"desc": "mycanal.fr and piwiplus.fr",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Canalsurmas",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CaracolTvPlay",
+"desc": "caracoltv-play (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cbc.ca",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CBS",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CBSLocal",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CBSLocalArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CBSLocalLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cbsnews",
+"desc": "CBS News",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cbssports",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CCMA",
+"desc": "3Cat, TV3 and Catalunya Ràdio",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CCTV",
+"desc": "央视网",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CDA",
+"desc": "cdapl (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CDAFolder",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Cellebrite",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CeskaTelevize",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CGTN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CharlieRose",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Chaturbate",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Chilloutzone",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "chzzk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cielotv.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Cinemax",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CinetecaMilano",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Cineverse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CineverseDetails",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CiscoLiveSearch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CiscoLiveSession",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ciscowebex",
+"desc": "Cisco Webex",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CJSW",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Clipchamp",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ClipRs",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CloserToTruth",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CloudflareStream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CloudyCDN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Clubic",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Clyp",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CNBCVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CNN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CNNIndonesia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ComedyCentral",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ConanClassic",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "CondeNast",
+"desc": "Condé Nast media group: Allure, Architectural Digest, Ars Technica, Bon Appétit, Brides, Condé Nast, Condé Nast Traveler, Details, Epicurious, GQ, Glamour, Golf Digest, SELF, Teen Vogue, The New Yorker, Vanity Fair, Vogue, W Magazine, WIRED",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CookingChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Corus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Coub",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CozyTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cp24",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cpac",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Cracked",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Craftsy",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "croatian.film",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CrooksAndLiars",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CrowdBunker",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CrowdBunkerChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Crtvg",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CSpan",
+"desc": "C-SPAN",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CSpanCongress",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CtsNews",
+"desc": "華視新聞",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CTVNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "cu.ntv.co.jp",
+"desc": "日テレ無料TADA!",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CultureUnplugged",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "curiositystream",
+"desc": "curiositystream (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Cybrary",
+"desc": "cybrary (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "CybraryCourse",
+"desc": "cybrary (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DacastPlaylist",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "DacastVOD",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "DagelijkseKost",
+"desc": "dagelijksekost.een.be",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DailyMail",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dailymotion",
+"desc": "dailymotion (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DailyWire",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DailyWirePodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "damtomo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dangalplay",
+"desc": "dangalplay (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "daum.net",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "daystar",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DBTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DctpTv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "democracynow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DestinationAmerica",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DetikEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DeuxM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DeuxMNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DHM",
+"desc": "Filmarchiv - Deutsches Historisches Museum",
+"type": "Video",
+"broken": true
+},
+{
+"name": "DigitalConcertHall",
+"desc": "digitalconcerthall (netrc machine) DigitalConcertHall extractor",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DigitallySpeaking",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Digiteka",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Digiview",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscogsReleasePlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryLife",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryNetworksDe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryPlus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryPlusIndia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryPlusIndiaShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryPlusItaly",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DiscoveryPlusItalyShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Disney",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dlf",
+"desc": "DLF Multi-feed Archives",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dlive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Douyin",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DouyuShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DouyuTV",
+"desc": "斗鱼直播",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DRBonanza",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Dropbox",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Dropout",
+"desc": "dropout (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DropoutSeason",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DrTalks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DrTuber",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "drtv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "DTube",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Dumpert",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Duoplay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dvtv",
+"desc": "http://video.aktualne.cz/",
+"type": "Video",
+"broken": false
+},
+{
+"name": "dw",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "dzen.ru",
+"desc": "Дзен (dzen) formerly Яндекс.Дзен (Yandex Zen)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EbaumsWorld",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ebay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "egghead",
+"desc": "egghead.io course",
+"type": "Video",
+"broken": false
+},
+{
+"name": "eggs",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EinsUndEinsTV",
+"desc": "1und1tv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EinsUndEinsTVLive",
+"desc": "1und1tv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EinsUndEinsTVRecordings",
+"desc": "1und1tv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ElementorEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Elonet",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ElPais",
+"desc": "El País",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ElTreceTV",
+"desc": "El Trece TV (Argentina)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Embedly",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EMPFlix",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Epicon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EpiconSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EpidemicSound",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "eplus",
+"desc": "eplus (netrc machine) e+ (イープラス)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Epoch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Eporner",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Erocast",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EroProfile",
+"desc": "eroprofile (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ERRArhiiv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ERRJupiter",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ertflix",
+"desc": "ERTFLIX videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ertwebtv",
+"desc": "ert.gr webtv embedded videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ESPN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ESPNArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ESPNCricInfo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EttuTv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Europa",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "EuroParlWebstream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EuropeanTour",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Eurosport",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EUScreen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EWETV",
+"desc": "ewetv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EWETVLive",
+"desc": "ewetv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "EWETVRecordings",
+"desc": "ewetv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Expressen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "facebook",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "FacebookPluginsVideo",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "fancode",
+"desc": "fancode (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Fathom",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Faulio",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FaulioLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "faz.net",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "fc2",
+"desc": "fc2 (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Fczenit",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Fifa",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FilmArchiv",
+"desc": "FILMARCHIV ON",
+"type": "Video",
+"broken": false
+},
+{
+"name": "filmon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Filmweb",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FiveThirtyEight",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FiveTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Flickr",
+"desc": "",
+"type": "Image",
+"broken": false
+},
+{
+"name": "Floatplane",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FloatplaneChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Folketinget",
+"desc": "Folketinget (ft.dk; Danish parliament)",
+"type": "Video",
+"broken": true
+},
+{
+"name": "FoodNetwork",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FootyRoom",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Formula1",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FOX",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FOX9",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FOX9News",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "foxnews",
+"desc": "Fox News and Fox Business Video",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FoxNewsVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FoxSports",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "fptplay",
+"desc": "fptplay.vn",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FrancaisFacile",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FranceCulture",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "franceinfo",
+"desc": "franceinfo.fr (formerly francetvinfo.fr)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "francetv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Freesound",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "freespeech.org",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "freetv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FreeTvMovies",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FrontendMasters",
+"desc": "frontendmasters (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FrontendMastersCourse",
+"desc": "frontendmasters (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FrontendMastersLesson",
+"desc": "frontendmasters (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Funk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Funker530",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Fux",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "FuyinTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gab",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gaia",
+"desc": "gaia (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameDevTVDashboard",
+"desc": "gamedevtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJolt",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJoltCommunity",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJoltGame",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJoltGameSoundtrack",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJoltSearch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameJoltUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameSpot",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GameStar",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gaskrank",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gazeta",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "GBNews",
+"desc": "GB News clips, features and live streams",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GDCVault",
+"desc": "gdcvault (netrc machine)",
+"type": "Video",
+"broken": true
+},
+{
+"name": "GediDigital",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "gem.cbc.ca",
+"desc": "cbcgem (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "generic",
+"desc": "Generic downloader that works on some sites",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Genius",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GeniusLyrics",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Germanupa",
+"desc": "germanupa.de",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GetCourseRu",
+"desc": "getcourseru (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GetCourseRuPlayer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gettr",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GettrStreaming",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GiantBomb",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlattvisionTV",
+"desc": "glattvisiontv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlattvisionTVLive",
+"desc": "glattvisiontv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlattvisionTVRecordings",
+"desc": "glattvisiontv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Glide",
+"desc": "Glide mobile video messages (glide.me)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlobalPlayerAudio",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlobalPlayerAudioEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlobalPlayerLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlobalPlayerLivePlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GlobalPlayerVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Globo",
+"desc": "globo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GloboArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "glomex",
+"desc": "Glomex videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GMANetworkVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Go",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GoDiscovery",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GodResource",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GodTube",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Golem",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "goodgame",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GoogleDrive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GoPro",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "GoToStage",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Graspop",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Gronkh",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "gronkh",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Groupon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Harpodeon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "hbo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HearThisAt",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Heise",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HellPorno",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "hetklokhuis",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "hgtv.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HGTVDe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HGTVUsa",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HiDive",
+"desc": "hidive (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HistoricFilms",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "history",
+"desc": "History.com Topic",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HitRecord",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HollywoodReporter",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HollywoodReporterPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Holodex",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HotNewHipHop",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "hotstar",
+"desc": "JioHotstar",
+"type": "Video",
+"broken": false
+},
+{
+"name": "hrfernsehen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HRTi",
+"desc": "hrti (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HRTiPlaylist",
+"desc": "hrti (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HSEProduct",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HSEShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "html5",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Huajiao",
+"desc": "花椒直播",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HuffPost",
+"desc": "Huffington Post",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Hungama",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HungamaAlbumPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "HungamaSong",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "huya",
+"desc": "虎牙直播",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Hypem",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Hytale",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Icareus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IdagioAlbum",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IdagioPersonalPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IdagioPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IdagioRecording",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IdagioTrack",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "iflix",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IflixSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ign.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IGNArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IGNVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "iheartradio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "IlPost",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Iltalehti",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "imdb",
+"desc": "Internet Movie Database trailers",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Imgur",
+"desc": "",
+"type": "Image",
+"broken": false
+},
+{
+"name": "imgur",
+"desc": "",
+"type": "Image",
+"broken": false
+},
+{
+"name": "Ina",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Inc",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IndavideoEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "InfoQ",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Instagram",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "instagram",
+"desc": "Instagram hashtag search URLs",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "InstagramIOS",
+"desc": "IOS instagram:// URL",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "Internazionale",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "InvestigationDiscovery",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IPrima",
+"desc": "iprima (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IPrimaCNN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "iq.com",
+"desc": "International version of iQiyi",
+"type": "Video",
+"broken": false
+},
+{
+"name": "iqiyi",
+"desc": "爱奇艺",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IslamChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IslamChannelSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "IsraelNationalNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ITProTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ITProTVCourse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ITV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ITVBTCC",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ivi",
+"desc": "ivi.ru",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ivideon",
+"desc": "Ivideon TV",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ivoox",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "iwara",
+"desc": "iwara (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ixigua",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Jamendo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "JamendoAlbum",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "JeuxVideo",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "jiosaavn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Joj",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Jove",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "JStream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "JTBC",
+"desc": "jtbc.co.kr",
+"type": "Video",
+"broken": false
+},
+{
+"name": "JWPlatform",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kakao",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kaltura",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KankaNews",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Karaoketv",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Katsomo",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "KelbyOne",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Kenh14Playlist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kenh14Video",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "khanacademy",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "kick",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kicker",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KickStarter",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kika",
+"desc": "KiKA.de",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KikaPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KinoPoisk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Kommunetv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KompasVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KrasView",
+"desc": "Красвью",
+"type": "Video",
+"broken": true
+},
+{
+"name": "KTH",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ku6",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "KukuluLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "kuwo",
+"desc": "酷我音乐 - 专辑",
+"type": "Video",
+"broken": false
+},
+{
+"name": "la7.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "laracasts",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "LastFM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LastFMPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LastFMUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LaXarxaMes",
+"desc": "laxarxames (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "lbry",
+"desc": "odysee.com",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LCI",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lcp",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "LcpPlay",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Le",
+"desc": "乐视网",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LearningOnScreen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lecture2Go",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Lecturio",
+"desc": "lecturio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LecturioCourse",
+"desc": "lecturio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LecturioDeCourse",
+"desc": "lecturio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LeFigaroVideoEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LeFigaroVideoSection",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LEGO",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lemonde",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lenta",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "LePlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Libsyn",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "life",
+"desc": "Life.ru",
+"type": "Video",
+"broken": false
+},
+{
+"name": "likee",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LinkedIn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "linkedin",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Liputan6",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ListenNotes",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LiTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LiveJournal",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Livestreamfails",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lnk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "loc",
+"desc": "Library of Congress",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Locipo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LocipoPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Loco",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "loom",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LoveHomePorn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LRTRadio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "LRTStream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LRTVOD",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LSMLREmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LSMLTVEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "LSMReplay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Lumni",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "maariv.co.il",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MagellanTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MagentaMusik",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mailru",
+"desc": "Видео@Mail.Ru",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MainStreaming",
+"desc": "MainStreaming Player",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mangomolo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MangoTV",
+"desc": "芒果TV",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ManyVids",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MaoriTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Markiza",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "MarkizaPage",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "massengeschmack.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Masters",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MatchiTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MatchTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mave",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MBN",
+"desc": "mbn.co.kr (매일방송)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MDR",
+"desc": "MDR.DE",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MedalTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "media.ccc.de",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mediaite",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediaKlikk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Medialaan",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mediaset",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediasetShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mediasite",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediasiteCatalog",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediasiteNamedCatalog",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediaStream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MediaWorksNZVOD",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Medici",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "megaphone.fm",
+"desc": "megaphone.fm embedded players",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "megatvcom",
+"desc": "megatv.com videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Meipai",
+"desc": "美拍",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mellowfan",
+"desc": "mellowfan (netrc machine) mellow-fan",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MelonVOD",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Metacritic",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mewatch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftBuild",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftLearnEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftLearnPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftLearnSession",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MicrosoftMedius",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "minds",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mir24.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mirrativ",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MirrorCoUK",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mixch",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mixcloud",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Mixlr",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MixlrRecoring",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MLB",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MLBArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MLBTV",
+"desc": "mlb (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MLBVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MLSSoccer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MNetTV",
+"desc": "mnettv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MNetTVLive",
+"desc": "mnettv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MNetTVRecordings",
+"desc": "mnettv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MochaVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mojevideo",
+"desc": "mojevideo.sk",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Monstercat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "monstersiren",
+"desc": "塞壬唱片",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Motorsport",
+"desc": "motorsport.com",
+"type": "Video",
+"broken": true
+},
+{
+"name": "MovieFap",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "moviepilot",
+"desc": "Moviepilot trailer",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MovingImage",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MSN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mtg",
+"desc": "MTG services",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mtv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MTVUutisetArticle",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "MuenchenTV",
+"desc": "münchen.tv",
+"type": "Video",
+"broken": true
+},
+{
+"name": "MujRozhlas",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Murrtube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MurrtubeUser",
+"desc": "Murrtube user profile",
+"type": "Video",
+"broken": true
+},
+{
+"name": "MuseAI",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MuseScore",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mux",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mx3",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mx3Neo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mx3Volksmusik",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "mxplayer",
+"desc": "Amazon MX Player",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MySpace",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MySpass",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MyVideoGe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "MyVidster",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Mzaalo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "n-tv.de",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "N1Info",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "N1InfoAsset",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NascarClassics",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nate",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NateProgram",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NationalGeographicTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Naver",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nba",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "NBC",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NBCNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nbcolympics",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NBCSports",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "NBCSportsStream",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "NBCSportsVPlayer",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "NBCStations",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ndr",
+"desc": "NDR.de - Norddeutscher Rundfunk",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NDTV",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "nebula",
+"desc": "watchnebula (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NekoHacker",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nest",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NestClip",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NetAppCollection",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NetAppVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "netease",
+"desc": "网易云音乐 - 专辑",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NetPlusTV",
+"desc": "netplus (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NetPlusTVLive",
+"desc": "netplus (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NetPlusTVRecordings",
+"desc": "netplus (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Netzkino",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Newgrounds",
+"desc": "newgrounds (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NewsPicks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Newsy",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nexx",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NexxEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nfb",
+"desc": "nfb.ca and onf.ca films and episodes",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NFHSNetwork",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nfl.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkForSchoolBangumi",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkForSchoolProgramList",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkForSchoolSubject",
+"desc": "Portal page for each school subjects, like Japanese (kokugo, 国語) or math (sansuu/suugaku or 算数・数学)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkRadioNewsPage",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NhkRadiru",
+"desc": "NHK らじる (Radiru/Rajiru)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkRadiruLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkVod",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NhkVodProgram",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nhl.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nick.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "niconico",
+"desc": "niconico (netrc machine) ニコニコ動画",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NiconicoChannelPlus",
+"desc": "ニコニコチャンネルプラス",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NiconicoUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nicovideo",
+"desc": "Nico video search; \"nicosearch:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NinaProtocol",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nintendo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nitter",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "njoy",
+"desc": "N-JOY",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NobelPrize",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NoicePodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NonkTube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NoodleMagazine",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NOSNLArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nova",
+"desc": "TN.cz, Prásk.tv, Nova.cz, Novaplus.cz, FANDA.tv, Krásná.cz and Doma.cz",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NovaEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NovaPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NowCanal",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nowness",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Noz",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "npo",
+"desc": "npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl",
+"type": "Video",
+"broken": false
+},
+{
+"name": "npo.nl",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Npr",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NRK",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKRadioPodkast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NRKSkole",
+"desc": "NRK Skole",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKTV",
+"desc": "NRK TV and NRK Radio",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NRKTVDirekte",
+"desc": "NRK TV Direkte and NRK Radio Direkte",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "NRKTVEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKTVEpisodes",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKTVSeason",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRKTVSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NRLTV",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "nts.live",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ntv.ru",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NubilesPorn",
+"desc": "nubiles-porn (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Nuvid",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NYTimes",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NYTimesArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NYTimesCookingGuide",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NYTimesCookingRecipe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "nzherald",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NZOnScreen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "NZZ",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ocw.mit.edu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Odnoklassniki",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OfTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OfTVPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OktoberfestTV",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "OlympicsReplay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Omnyfm",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OmnyfmPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OmnyfmShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "on24",
+"desc": "ON24",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OnDemandChinaEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OnDemandKorea",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OnDemandKoreaProgram",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OneFootball",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OnePlacePodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "onet.pl",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "onet.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OnetMVP",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "onsen",
+"desc": "onsen (netrc machine) インターネットラジオステーション＜音泉＞",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Opencast",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OpencastPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "orf",
+"desc": "fm4.orf.at stories",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OsnatelTV",
+"desc": "osnateltv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OsnatelTVLive",
+"desc": "osnateltv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OsnatelTVRecordings",
+"desc": "osnateltv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OutsideTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "OwnCloud",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PacktPub",
+"desc": "packtpub (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PacktPubCourse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PalcoMP3",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PandaTv",
+"desc": "pandalive.co.kr (팬더티비)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Panopto",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PanoptoList",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PanoptoPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ParamountPressExpress",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Parler",
+"desc": "Posts on parler.com",
+"type": "Video",
+"broken": false
+},
+{
+"name": "parliamentlive.tv",
+"desc": "UK parliament videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Parlview",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "parti",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "patreon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "pbs",
+"desc": "Public Broadcasting Service (PBS) and member stations: PBS: Public Broadcasting Service, APT - Alabama Public Television (WBIQ), GPB/Georgia Public Broadcasting (WGTV), Mississippi Public Broadcasting (WMPN), Nashville Public Television (WNPT), WFSU-TV (WFSU), WSRE (WSRE), WTCI (WTCI), WPBA/Channel 30 (WPBA), Alaska Public Media (KAKM), Arizona PBS (KAET), KNME-TV/Channel 5 (KNME), Vegas PBS (KLVX), AETN/ARKANSAS ETV NETWORK (KETS), KET (WKLE), WKNO/Channel 10 (WKNO), LPB/LOUISIANA PUBLIC BROADCASTING (WLPB), OETA (KETA), Ozarks Public Television (KOZK), WSIU Public Broadcasting (WSIU), KEET TV (KEET), KIXE/Channel 9 (KIXE), KPBS San Diego (KPBS), KQED (KQED), KVIE Public Television (KVIE), PBS SoCal/KOCE (KOCE), ValleyPBS (KVPT), CONNECTICUT PUBLIC TELEVISION (WEDH), KNPB Channel 5 (KNPB), SOPTV (KSYS), Rocky Mountain PBS (KRMA), KENW-TV3 (KENW), KUED Channel 7 (KUED), Wyoming PBS (KCWC), Colorado Public Television / KBDI 12 (KBDI), KBYU-TV (KBYU), Thirteen/WNET New York (WNET), WGBH/Channel 2 (WGBH), WGBY (WGBY), NJTV Public Media NJ (WNJT), WLIW21 (WLIW), mpt/Maryland Public Television (WMPB), WETA Television and Radio (WETA), WHYY (WHYY), PBS 39 (WLVT), WVPT - Your Source for PBS and More! (WVPT), Howard University Television (WHUT), WEDU PBS (WEDU), WGCU Public Media (WGCU), WPBT2 (WPBT), WUCF TV (WUCF), WUFT/Channel 5 (WUFT), WXEL/Channel 42 (WXEL), WLRN/Channel 17 (WLRN), WUSF Public Broadcasting (WUSF), ETV (WRLK), UNC-TV (WUNC), PBS Hawaii - Oceanic Cable Channel 10 (KHET), Idaho Public Television (KAID), KSPS (KSPS), OPB (KOPB), KWSU/Channel 10 & KTNW/Channel 31 (KWSU), WILL-TV (WILL), Network Knowledge - WSEC/Springfield (WSEC), WTTW11 (WTTW), Iowa Public Television/IPTV (KDIN), Nine Network (KETC), PBS39 Fort Wayne (WFWA), WFYI Indianapolis (WFYI), Milwaukee Public Television (WMVS), WNIN (WNIN), WNIT Public Television (WNIT), WPT (WPNE), WVUT/Channel 22 (WVUT), WEIU/Channel 51 (WEIU), WQPT-TV (WQPT), WYCC PBS Chicago (WYCC), WIPB-TV (WIPB), WTIU (WTIU), CET  (WCET), ThinkTVNetwork (WPTD), WBGU-TV (WBGU), WGVU TV (WGVU), NET1 (KUON), Pioneer Public Television (KWCM), SDPB Television (KUSD), TPT (KTCA), KSMQ (KSMQ), KPTS/Channel 8 (KPTS), KTWU/Channel 11 (KTWU), East Tennessee PBS (WSJK), WCTE-TV (WCTE), WLJT, Channel 11 (WLJT), WOSU TV (WOSU), WOUB/WOUC (WOUB), WVPB (WVPB), WKYU-PBS (WKYU), KERA 13 (KERA), MPBN (WCBB), Mountain Lake PBS (WCFE), NHPTV (WENH), Vermont PBS (WETK), witf (WITF), WQED Multimedia (WQED), WMHT Educational Telecommunications (WMHT), Q-TV (WDCQ), WTVS Detroit Public TV (WTVS), CMU Public Television (WCMU), WKAR-TV (WKAR), WNMU-TV Public TV 13 (WNMU), WDSE - WRPT (WDSE), WGTE TV (WGTE), Lakeland Public Television (KAWE), KMOS-TV - Channels 6.1, 6.2 and 6.3 (KMOS), MontanaPBS (KUSM), KRWG/Channel 22 (KRWG), KACV (KACV), KCOS/Channel 13 (KCOS), WCNY/Channel 24 (WCNY), WNED (WNED), WPBS (WPBS), WSKG Public TV (WSKG), WXXI (WXXI), WPSU (WPSU), WVIA Public Media Studios (WVIA), WTVI (WTVI), Western Reserve PBS (WNEO), WVIZ/PBS ideastream (WVIZ), KCTS 9 (KCTS), Basin PBS (KPBT), KUHT / Channel 8 (KUHT), KLRN (KLRN), KLRU (KLRU), WTJX Channel 12 (WTJX), WCVE PBS (WCVE), KBTC Public Television (KBTC)",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "PBSKids",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PearVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PeekVids",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "peer.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PeerTube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "peloton",
+"desc": "peloton (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PerformGroup",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "periscope",
+"desc": "Periscope",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PGATour",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PhilharmonieDeParis",
+"desc": "Philharmonie de Paris",
+"type": "Video",
+"broken": false
+},
+{
+"name": "phoenix.de",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Photobucket",
+"desc": "",
+"type": "Image",
+"broken": false
+},
+{
+"name": "PiaLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Piapro",
+"desc": "piapro (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "picarto",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Piksel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pinkbike",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pinterest",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "PinterestCollection",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "Platzi",
+"desc": "platzi (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PlatziCourse",
+"desc": "platzi (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "play.tv",
+"desc": "goplay (netrc machine) PLAY (formerly goplay.be)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "player.sky.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PlayerFm",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PlaySuisse",
+"desc": "playsuisse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Playtvak",
+"desc": "Playtvak.cz, iDNES.cz and Lidovky.cz",
+"type": "Mixed",
+"broken": true
+},
+{
+"name": "PlayVids",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "pluralsight",
+"desc": "pluralsight (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PlutoTV",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "PlyrEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PodbayFM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PodbayFMChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Podchaser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "podomatic",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "PokerGo",
+"desc": "pokergo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PokerGoCollection",
+"desc": "pokergo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PolsatGo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PolskieRadio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "polskieradio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Popcorntimes",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PopcornTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pornbox",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornerBros",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornFlip",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornHub",
+"desc": "pornhub (netrc machine) PornHub and Thumbzilla",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornHubPagedVideoList",
+"desc": "pornhub (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornHubPlaylist",
+"desc": "pornhub (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornHubUser",
+"desc": "pornhub (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornHubUserVideosUpload",
+"desc": "pornhub (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pornotube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornoVoisines",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "PornoXO",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "PornTop",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PornTube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pr0gramm",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PrankCast",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PrankCastPost",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PremiershipRugby",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PressTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ProjectVeritas",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "PRXAccount",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PRXSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "prxseries",
+"desc": "PRX Series Search; \"prxseries:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "prxstories",
+"desc": "PRX Stories Search; \"prxstories:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "PRXStory",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "puhutv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Pyvideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "QDance",
+"desc": "qdance (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "QingTing",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "qqmusic",
+"desc": "QQ音乐",
+"type": "Video",
+"broken": false
+},
+{
+"name": "QuantumTV",
+"desc": "quantumtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "QuantumTVLive",
+"desc": "quantumtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "QuantumTVRecordings",
+"desc": "quantumtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "R7",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "R7Article",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Radiko",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RadikoRadio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "radio.de",
+"desc": "",
+"type": "Audio",
+"broken": true
+},
+{
+"name": "Radio1Be",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "radiocanada",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "radiofrance",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioFranceLive",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioFrancePodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioFranceProfile",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioFranceProgramSchedule",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioJavan",
+"desc": "",
+"type": "Audio",
+"broken": true
+},
+{
+"name": "radiokapital",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioRadicale",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RadioZetPodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "radlive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Rai",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiCultura",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlayLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlayPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlaySound",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlaySoundLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiPlaySoundPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RaiSudtirol",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RayWenderlich",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RayWenderlichCourse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RbgTum",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RbgTumCourse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RbgTumNewCourse",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCS",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCSEmbeds",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCSVarious",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCTIPlus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCTIPlusSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RCTIPlusTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RDS",
+"desc": "RDS.ca",
+"type": "Video",
+"broken": true
+},
+{
+"name": "RedBull",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedBullEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedBullTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedBullTVRrnContent",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Reddit",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "RedGifs",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedGifsSearch",
+"desc": "Redgifs search",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedGifsUser",
+"desc": "Redgifs user",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RedTube",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RENTV",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "RENTVArticle",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Restudy",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Reuters",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "ReverbNation",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RideHome",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RinseFM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RinseFMArtistPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RockstarGames",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Rokfin",
+"desc": "rokfin (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rokfin",
+"desc": "Rokfin Channels",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RoosterTeeth",
+"desc": "roosterteeth (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RoosterTeethSeries",
+"desc": "roosterteeth (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RottenTomatoes",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RoyaLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Rozhlas",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RozhlasVltava",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTBF",
+"desc": "rtbf (netrc machine)",
+"type": "Video",
+"broken": true
+},
+{
+"name": "RTDocumentry",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTDocumentryPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rte",
+"desc": "Raidió Teilifís Éireann TV",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rtl.lu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rtl.nl",
+"desc": "rtl.nl and rtlxl.nl",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rtl2",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "RTLLuLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTLLuRadio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "RTNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTP",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTRFM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTS",
+"desc": "RTS.ch",
+"type": "Video",
+"broken": true
+},
+{
+"name": "RTVCKaltura",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTVCPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RTVCPlayEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rtve.es",
+"desc": "RTVE a la carta and Play",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rtvslo.si",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RudoVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Rule34Video",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Rumble",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RumbleChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "RumbleEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ruptly",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "rutube",
+"desc": "Rutube videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Ruutu",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Ruv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ruv.is",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "S4C",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "S4CSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "safari",
+"desc": "safari (netrc machine) safaribooksonline.com online video",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Saitosan",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "SAKTV",
+"desc": "saktv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SAKTVLive",
+"desc": "saktv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SAKTVRecordings",
+"desc": "saktv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SaltTV",
+"desc": "salttv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SaltTVLive",
+"desc": "salttv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SaltTVRecordings",
+"desc": "salttv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SampleFocus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Sangiin",
+"desc": "参議院インターネット審議中継 (archive)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Sapo",
+"desc": "SAPO Vídeos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SaucePlus",
+"desc": "Sauce+",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SaucePlusChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SBS",
+"desc": "sbs.com.au",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sbs.co.kr",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "schooltv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ScienceChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Screen9",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Screencast",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Screencastify",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ScreencastOMatic",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ScreenRec",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ScrippsNetworks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "scrippsnetworks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Scrolller",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sejm",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Sen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SenalColombiaLive",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "senate.gov",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Servus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Sexu",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "SeznamZpravy",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SeznamZpravyArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Shahid",
+"desc": "shahid (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ShahidShow",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SharePoint",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ShemarooMe",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Shiey",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "showroom",
+"desc": "SHOWROOM",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ShugiinItvLive",
+"desc": "衆議院インターネット審議中継",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ShugiinItvLiveRoom",
+"desc": "衆議院インターネット審議中継 (中継)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ShugiinItvVod",
+"desc": "衆議院インターネット審議中継 (ビデオライブラリ)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SibnetEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "simplecast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Sina",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Skeb",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sky",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sky.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SkylineWebcams",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "skynewsarabia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SkyNewsAU",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Slideshare",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SlidesLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Slutload",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "smotrim",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SnapchatSpotlight",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SoftWhiteUnderbelly",
+"desc": "softwhiteunderbelly (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Sohu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SohuV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SonyLIV",
+"desc": "sonyliv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SonyLIVSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "soop",
+"desc": "afreecatv (netrc machine) sooplive.com",
+"type": "Video",
+"broken": false
+},
+{
+"name": "soundcloud",
+"desc": "soundcloud (netrc machine)",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "SoundcloudEmbed",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "soundgasm",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southpark.cc.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southpark.de",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southpark.lat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southparkstudios.co.uk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southparkstudios.com.br",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "southparkstudios.nu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SovietsCloset",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SovietsClosetPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SpankBang",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SpankBangPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Spiegel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Sport5",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SportBox",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "sporteurope",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Spreaker",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "SpreakerShow",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "SproutVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sr",
+"desc": "Saarländischer Rundfunk",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SRGSSR",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SRGSSRPlay",
+"desc": "srf.ch, rts.ch, rsi.ch, rtr.ch and swissinfo.ch play sites",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StacommuLive",
+"desc": "stacommu (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StacommuVOD",
+"desc": "stacommu (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StagePlusVODConcert",
+"desc": "stageplus (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "startrek",
+"desc": "STAR TREK",
+"type": "Video",
+"broken": false
+},
+{
+"name": "startv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Steam",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SteamCommunity",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SteamCommunityBroadcast",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StoryFire",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StoryFireSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StoryFireUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Streaks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Streamable",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StreamCZ",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "StreetVoice",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Stripchat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "stv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "stvr",
+"desc": "Slovak Television and Radio (formerly RTVS)",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "Subsplash",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "subsplash",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Substack",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SunPorno",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "sverigesradio",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "svt",
+"desc": "SVT Play and Öppet arkiv",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Syfy",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "SztvHu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "t-online.de",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Tagesschau",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TapTapApp",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TapTapAppIntl",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TapTapMoment",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TapTapPostIntl",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tarangplus",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tass",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TBS",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TBSJPEpisode",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TBSJPPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TBSJPProgram",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Teachable",
+"desc": "teachable (netrc machine)",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TeachableCourse",
+"desc": "teachable (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "teachertube",
+"desc": "teachertube.com videos",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TeachingChannel",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Teamcoco",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeamTreeHouse",
+"desc": "teamtreehouse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "techtv.mit.edu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TedEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TedPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TedSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TedTalk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tele13",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tele5",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleBruxelles",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TelecaribePlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Telecinco",
+"desc": "telecinco.es, cuatro.com and mediaset.es",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Telegraaf",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "telegram",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleMB",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Telemundo",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TeleQuebec",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleQuebecEmission",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleQuebecLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleQuebecSquat",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleQuebecVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TeleTask",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Telewebion",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TennisTV",
+"desc": "tennistv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TF1",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TFO",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "theatercomplextown",
+"desc": "theatercomplextown (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheChosen",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheChosenGroup",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TheGuardianPodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "TheGuardianPodcastPlaylist",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "TheHighWire",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheIntercept",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThePlatform",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThePlatformFeed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheStar",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheSun",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TheWeatherChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThisAmericanLife",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThisOldHouse",
+"desc": "thisoldhouse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThisVid",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThisVidMember",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThisVidPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThreeSpeak",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ThreeSpeakUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TikTok",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tiktok",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TLC",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TMZ",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TNAFlix",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TNAFlixNetworkEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "toggle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "toggo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tokfm",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ToonGoggles",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tou.tv",
+"desc": "toutv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "toutiao",
+"desc": "今日头条",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Toypics",
+"desc": "Toypics video",
+"type": "Video",
+"broken": true
+},
+{
+"name": "ToypicsUser",
+"desc": "Toypics user profile",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TravelChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TrtCocukVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TrtWorld",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TrueID",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TruNews",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Truth",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ttinglive",
+"desc": "띵라이브 (formerly FlexTV)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tube8",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "TubeTuGraz",
+"desc": "tubetugraz (netrc machine) tube.tugraz.at",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TubeTuGrazSeries",
+"desc": "tubetugraz (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tubitv",
+"desc": "tubitv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tumblr",
+"desc": "tumblr (netrc machine)",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "tunein",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tv.dfb.de",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV2",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV2Article",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV2DK",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV2DKBornholmPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tv2play.hu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tv2playseries.hu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV4",
+"desc": "tv4.se and tv4play.se",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TV5MONDE",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tv5unis",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tv8.it",
+"desc": "TV8 Live",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVANouvelles",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVANouvellesArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tvaplus",
+"desc": "TVA+",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVC",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVCArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tver",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tvigle",
+"desc": "Интернет-телевидение Tvigle.ru",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVIPlayer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVN24",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "tvnoe",
+"desc": "Televize Noe",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVO",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tvopengr",
+"desc": "tvopen.gr embedded videos",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tvp",
+"desc": "Telewizja Polska",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TVPlayHome",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "tvw",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Tweakers",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TwitCasting",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TwitCastingLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "TwitCastingUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "twitch",
+"desc": "twitch (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "twitter",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "Txxx",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "udemy",
+"desc": "udemy (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "UDNEmbed",
+"desc": "聯合影音",
+"type": "Video",
+"broken": false
+},
+{
+"name": "UFCTV",
+"desc": "ufctv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ukcolumn",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "UlizaPlayer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "UlizaPortal",
+"desc": "ulizaportal.jp",
+"type": "Video",
+"broken": false
+},
+{
+"name": "umg",
+"desc": "Universal Music Deutschland",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Unistra",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "UnitedNationsWebTv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Unity",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "uol.com.br",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "uplynk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Urort",
+"desc": "NRK P3 Urørt",
+"type": "Video",
+"broken": true
+},
+{
+"name": "URPlay",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "USANetwork",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "USAToday",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ustream",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ustudio",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Varzesh3",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Vbox7",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Veo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vevo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VevoPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VGTV",
+"desc": "VGTV, BTTV, FTV, Aftenposten and Aftonbladet",
+"type": "Video",
+"broken": true
+},
+{
+"name": "vh1.com",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vhx",
+"desc": "vimeo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vice",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Viddler",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Videa",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "video.arnes.si",
+"desc": "Arnes Video",
+"type": "Video",
+"broken": false
+},
+{
+"name": "video.google",
+"desc": "Google Video search; \"gvsearch:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "video.sky.it",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VideoKenPlayer",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VideoPress",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vidflex",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vidio",
+"desc": "vidio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VidioLive",
+"desc": "vidio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VidioPremier",
+"desc": "vidio (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VidLii",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vidly",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vids.io",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vidyard",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "viewlift",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Viidea",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vimeo",
+"desc": "vimeo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ViMP",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Viously",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Viqeo",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Visir",
+"desc": "Vísir",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Viu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "viu",
+"desc": "viu (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ViuOTTIndonesia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vk",
+"desc": "vk (netrc machine) VK",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "VKPlay",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "VKPlayLive",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "vm.tiktok",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Vocaroo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VODPlatform",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "voicy",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "volejtv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VoxMedia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VoxMediaVolume",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vpro",
+"desc": "npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vqq",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vrsquare",
+"desc": "VR SQUARE",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VRT",
+"desc": "VRT NWS, Flanders News, Flandern Info and Sporza",
+"type": "Video",
+"broken": false
+},
+{
+"name": "vrtmax",
+"desc": "vrtnu (netrc machine) VRT MAX (formerly VRT NU)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTM",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTVGo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTXTV",
+"desc": "vtxtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTXTVLive",
+"desc": "vtxtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "VTXTVRecordings",
+"desc": "vtxtv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Walla",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "WalyTV",
+"desc": "walytv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WalyTVLive",
+"desc": "walytv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WalyTVRecordings",
+"desc": "walytv (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "washingtonpost",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wat.tv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WatchESPN",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WDR",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WDRElefant",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WDRPage",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "web.archive",
+"desc": "web.archive.org saved youtube videos, \"ytarchive:\" prefix",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Webcamerapl",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Webcaster",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WebcasterFeed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WebOfStories",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WebOfStoriesPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Weibo",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "WeiboUser",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "WeiboVideo",
+"desc": "",
+"type": "Mixed",
+"broken": false
+},
+{
+"name": "WeiqiTV",
+"desc": "WQTV",
+"type": "Video",
+"broken": true
+},
+{
+"name": "wetv",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeTvSeries",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Weverse",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeverseLive",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeverseLiveTab",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeverseMedia",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeverseMediaTab",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeverseMoment",
+"desc": "weverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WeVidi",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "whowatch",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Whyp",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wikimedia.org",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Wimbledon",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WimTV",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WinSportsVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Wistia",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WistiaChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WistiaPlaylist",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wnl",
+"desc": "npo.nl, ntr.nl, omroepwnl.nl, zapp.nl and npo3.nl",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wordpress",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WorldStarHipHop",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wppilot",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wrestleuniverse",
+"desc": "wrestleuniverse (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WSJ",
+"desc": "Wall Street Journal",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WSJArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WWE",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "wyborcza",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "WyborczaPodcast",
+"desc": "",
+"type": "Audio",
+"broken": false
+},
+{
+"name": "wykop",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XboxClips",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XHamster",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XHamsterEmbed",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XHamsterUser",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XiaoHongShu",
+"desc": "小红书",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ximalaya",
+"desc": "喜马拉雅FM",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Xinpianchang",
+"desc": "新片场",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XMinus",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "XNXX",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XVideos",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "xvideos",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "XXXYMovies",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "yahoo",
+"desc": "Yahoo! Japan News",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YandexDisk",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "yandexmusic",
+"desc": "Яндекс.Музыка - Альбом",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YandexVideo",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YandexVideoPreview",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YapFiles",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "Yappy",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "YappyProfile",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "yfanefa",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YleAreena",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouJizz",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "youku",
+"desc": "优酷",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouNowChannel",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouNowLive",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouNowMoment",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPorn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornCategory",
+"desc": "YouPorn category, with sorting, filtering and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornChannel",
+"desc": "YouPorn channel, with sorting and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornCollection",
+"desc": "YouPorn collection (user playlist), with sorting and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornStar",
+"desc": "YouPorn Pornstar, with description, sorting and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornTag",
+"desc": "YouPorn tag (porntags), with sorting, filtering and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YouPornVideos",
+"desc": "YouPorn video (browse) playlists, with sorting, filtering and pagination",
+"type": "Video",
+"broken": false
+},
+{
+"name": "youtube",
+"desc": "youtube (netrc machine) YouTube",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YoutubeLivestreamEmbed",
+"desc": "youtube (netrc machine) YouTube livestream embeds",
+"type": "Video",
+"broken": false
+},
+{
+"name": "YoutubeYtBe",
+"desc": "youtube (netrc machine) youtu.be",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Zaiko",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZaikoETicket",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "zan",
+"desc": "Z-aN",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Zapiks",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Zattoo",
+"desc": "zattoo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZattooLive",
+"desc": "zattoo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZattooMovies",
+"desc": "zattoo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZattooRecordings",
+"desc": "zattoo (netrc machine)",
+"type": "Video",
+"broken": false
+},
+{
+"name": "zdf",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZeeNews",
+"desc": "",
+"type": "Video",
+"broken": true
+},
+{
+"name": "ZenPorn",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "ZetlandDKArticle",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Zhihu",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "zingmp3",
+"desc": "zingmp3.vn",
+"type": "Video",
+"broken": false
+},
+{
+"name": "zoom",
+"desc": "",
+"type": "Video",
+"broken": false
+},
+{
+"name": "Zype",
+"desc": "",
+"type": "Video",
+"broken": false
+}
+]
