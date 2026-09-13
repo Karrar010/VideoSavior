@@ -38,6 +38,29 @@ def cookies_from_browser_opt(browser: str) -> tuple | None:
     return None
 
 
+# Exported cookies.txt (Netscape format) for a throwaway YouTube account, used
+# as a server-side fallback so sites requiring login work for every visitor -
+# there's no browser on the host for cookiesfrombrowser to read from.
+# YTDLP_COOKIES_FILE overrides the path (e.g. a Render secret file's mount
+# point); otherwise a cookies.txt dropped next to app.py is picked up.
+_cookies_path = os.environ.get("YTDLP_COOKIES_FILE", "cookies.txt")
+COOKIES_FILE = _cookies_path if os.path.isfile(_cookies_path) else None
+
+
+def apply_cookie_opts(opts: dict, browser: str | None) -> None:
+    cookie_opt = cookies_from_browser_opt(browser) if browser else None
+    if cookie_opt:
+        opts["cookiesfrombrowser"] = cookie_opt
+    elif COOKIES_FILE:
+        opts["cookiefile"] = COOKIES_FILE
+    else:
+        return
+    # YouTube's default client for logged-in requests (tv_downgraded) is
+    # broken as of 2026 ("The page needs to be reloaded" on every request) -
+    # https://github.com/yt-dlp/yt-dlp/issues/17389. Force clients that still work.
+    opts["extractor_args"] = {"youtube": {"player_client": ["default", "web_embedded"]}}
+
+
 def find_ffmpeg() -> str | None:
     """Locate ffmpeg even when it's missing from this process's PATH.
 
@@ -97,10 +120,11 @@ def broken_site_response(extractor_name: str) -> dict:
 
 
 def probe(url: str, browser: str | None = None) -> dict:
-    opts = {"quiet": True, "no_warnings": True, "skip_download": True, "noplaylist": True}
-    cookie_opt = cookies_from_browser_opt(browser) if browser else None
-    if cookie_opt:
-        opts["cookiesfrombrowser"] = cookie_opt
+    opts = {
+        "quiet": True, "no_warnings": True, "skip_download": True, "noplaylist": True,
+        "js_runtimes": {"node": {}},  # solves YouTube's "n" challenge - see EJS wiki
+    }
+    apply_cookie_opts(opts, browser)
     with yt_dlp.YoutubeDL(opts) as ydl:
         info = ydl.extract_info(url, download=False)
     if info.get("entries"):
@@ -131,12 +155,11 @@ def build_ydl_opts(outtmpl: str, mode: str, quality: str, browser: str | None = 
         "no_warnings": True,
         "noplaylist": True,
         "restrictfilenames": True,
+        "js_runtimes": {"node": {}},  # solves YouTube's "n" challenge - see EJS wiki
     }
     if FFMPEG_LOCATION:
         opts["ffmpeg_location"] = FFMPEG_LOCATION
-    cookie_opt = cookies_from_browser_opt(browser) if browser else None
-    if cookie_opt:
-        opts["cookiesfrombrowser"] = cookie_opt
+    apply_cookie_opts(opts, browser)
     if mode == "mp3":
         bitrate = quality if quality in MP3_BITRATES else "192"
         opts["format"] = "bestaudio/best"
