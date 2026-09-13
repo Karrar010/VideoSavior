@@ -196,6 +196,22 @@ def download_one(url: str, mode: str, quality: str, dest_dir: str, browser: str 
     return max(files, key=lambda p: p.stat().st_mtime)
 
 
+@app.get("/api/diag")
+def diag():
+    """No secrets here - just enough to tell if cookies/node made it into this
+    deployment, since there's no shell access to check a Render container directly."""
+    node = shutil.which("node")
+    return jsonify({
+        "cookies_file_configured": os.environ.get("YTDLP_COOKIES_FILE") or "cookies.txt (default)",
+        "cookies_file_found": bool(COOKIES_FILE),
+        "cookies_file_size_bytes": os.path.getsize(COOKIES_FILE) if COOKIES_FILE else None,
+        "node_found": bool(node),
+        "node_path": node,
+        "ffmpeg_found": bool(FFMPEG_LOCATION),
+        "yt_dlp_version": yt_dlp.version.__version__,
+    })
+
+
 @app.get("/")
 def index():
     return render_template("index.html")
