@@ -109,7 +109,19 @@ def match_extractor(url: str) -> str | None:
 
 def clean_error(exc: Exception) -> str:
     msg = re.sub(r"^ERROR:\s*", "", str(exc))
-    return msg.splitlines()[0][:200] if msg else "Unknown error"
+    msg = msg.splitlines()[0][:200] if msg else "Unknown error"
+    if "Sign in to confirm you" in msg and COOKIES_FILE:
+        # Cookies are attached and correct at this point (verified via /api/diag
+        # during setup) - YouTube is still blocking because it flags this
+        # server's datacenter IP address itself, not the cookies. No amount of
+        # retrying or re-uploading cookies fixes this from a cloud host.
+        return (
+            "YouTube is blocking this server's IP address, not rejecting your "
+            "login - a known limitation of running yt-dlp from a cloud host. "
+            "Run VideoSavior locally for YouTube downloads; every other "
+            "supported site is unaffected."
+        )
+    return msg
 
 
 def broken_site_response(extractor_name: str) -> dict:
@@ -201,36 +213,6 @@ def download_one(url: str, mode: str, quality: str, dest_dir: str, browser: str 
     if not files:
         raise RuntimeError("Download produced no file")
     return max(files, key=lambda p: p.stat().st_mtime)
-
-
-def cookie_names_in_file(path: str) -> list[str]:
-    """Domain + cookie name only, from a Netscape-format cookies.txt - never values."""
-    names = []
-    with open(path, encoding="utf-8") as f:
-        for line in f:
-            if line.startswith("#") or not line.strip():
-                continue
-            fields = line.rstrip("\n").split("\t")
-            if len(fields) >= 6:
-                names.append(f"{fields[0]}:{fields[5]}")
-    return names
-
-
-@app.get("/api/diag")
-def diag():
-    """No secrets here - just enough to tell if cookies/node made it into this
-    deployment, since there's no shell access to check a Render container directly."""
-    node = shutil.which("node")
-    return jsonify({
-        "cookies_file_configured": os.environ.get("YTDLP_COOKIES_FILE") or "cookies.txt (default)",
-        "cookies_file_found": bool(COOKIES_FILE),
-        "cookies_file_size_bytes": os.path.getsize(COOKIES_FILE) if COOKIES_FILE else None,
-        "cookie_names": cookie_names_in_file(COOKIES_FILE) if COOKIES_FILE else None,
-        "node_found": bool(node),
-        "node_path": node,
-        "ffmpeg_found": bool(FFMPEG_LOCATION),
-        "yt_dlp_version": yt_dlp.version.__version__,
-    })
 
 
 @app.get("/")

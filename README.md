@@ -74,6 +74,33 @@ installs ffmpeg and dependencies automatically. In Render: **New → Blueprint**
 → connect this repo → **Deploy Blueprint**. No environment variables needed;
 `PORT` is injected by Render and read in `app.py`.
 
+## Known limitation: YouTube on the live deployment
+
+YouTube downloads don't work on the hosted Render instance — YouTube's
+bot-detection flags Render's datacenter IP address itself, regardless of
+whether valid login cookies are attached (confirmed: the exact same cookies
+that work when run locally get blocked identically from Render). This is a
+known problem for anyone self-hosting yt-dlp-based tools on any cloud
+provider, not something fixable in this codebase without a paid residential
+proxy. Every other supported site is unaffected. Run VideoSavior locally
+(see Setup below) for YouTube downloads — the server-side cookie/EJS setup
+below still applies there, it just isn't blocked by IP reputation on your
+own network.
+
+### Server-side cookie auth (for self-hosted deployments)
+
+`YTDLP_COOKIES_FILE` (env var) points at a Netscape-format `cookies.txt` -
+falls back to a `cookies.txt` dropped next to `app.py` if unset. This lets a
+logged-in session apply automatically for every visitor, since there's no
+browser on a cloud host for the `browser` field's `--cookies-from-browser`
+to read from. Use a throwaway account's cookies, never your main one — see
+the git history on this file for the full reasoning and export steps.
+
+Also requires a JS runtime for yt-dlp's EJS challenge solver (works around
+YouTube's "n" parameter obfuscation) - the `Dockerfile` installs Node 22 for
+this; running outside Docker needs Node 22+ on `PATH` and `pip install
+"yt-dlp[default]"` (not plain `yt-dlp`).
+
 ## Analytics
 
 Page views and clicks are tracked via [PostHog](https://posthog.com) (see the
