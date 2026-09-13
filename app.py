@@ -203,6 +203,19 @@ def download_one(url: str, mode: str, quality: str, dest_dir: str, browser: str 
     return max(files, key=lambda p: p.stat().st_mtime)
 
 
+def cookie_names_in_file(path: str) -> list[str]:
+    """Domain + cookie name only, from a Netscape-format cookies.txt - never values."""
+    names = []
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            if line.startswith("#") or not line.strip():
+                continue
+            fields = line.rstrip("\n").split("\t")
+            if len(fields) >= 6:
+                names.append(f"{fields[0]}:{fields[5]}")
+    return names
+
+
 @app.get("/api/diag")
 def diag():
     """No secrets here - just enough to tell if cookies/node made it into this
@@ -212,6 +225,7 @@ def diag():
         "cookies_file_configured": os.environ.get("YTDLP_COOKIES_FILE") or "cookies.txt (default)",
         "cookies_file_found": bool(COOKIES_FILE),
         "cookies_file_size_bytes": os.path.getsize(COOKIES_FILE) if COOKIES_FILE else None,
+        "cookie_names": cookie_names_in_file(COOKIES_FILE) if COOKIES_FILE else None,
         "node_found": bool(node),
         "node_path": node,
         "ffmpeg_found": bool(FFMPEG_LOCATION),
