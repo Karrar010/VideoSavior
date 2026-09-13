@@ -585,3 +585,13 @@ body.guide-mode [data-guide] {
   textarea, select, input { font-size: 16px; }
   .logo-grid a, .featured-logos a { padding: 0.5rem; }
 }
+
+/* ---- Narrow screens: header stops wrapping/crowding ---- */
+@media (max-width: 480px) {
+  .site-header { padding: 0.85rem 1rem; }
+  .brand { gap: 0.4rem; min-width: 0; }
+  .brand-mark { width: 24px; height: 24px; flex-shrink: 0; }
+  .brand-name { font-size: 1.05rem; }
+  .header-actions { gap: 0.4rem; }
+  .ghost-badge { display: none; }
+}
