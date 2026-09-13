@@ -44,7 +44,14 @@ def cookies_from_browser_opt(browser: str) -> tuple | None:
 # YTDLP_COOKIES_FILE overrides the path (e.g. a Render secret file's mount
 # point); otherwise a cookies.txt dropped next to app.py is picked up.
 _cookies_path = os.environ.get("YTDLP_COOKIES_FILE", "cookies.txt")
-COOKIES_FILE = _cookies_path if os.path.isfile(_cookies_path) else None
+if os.path.isfile(_cookies_path):
+    # yt-dlp rewrites the cookiejar after use to persist any rotated session
+    # cookies - Render's secret-file mount is read-only, so give it a
+    # writable copy instead of the original.
+    COOKIES_FILE = os.path.join(tempfile.gettempdir(), "yt-dlp-cookies.txt")
+    shutil.copyfile(_cookies_path, COOKIES_FILE)
+else:
+    COOKIES_FILE = None
 
 
 def apply_cookie_opts(opts: dict, browser: str | None) -> None:
