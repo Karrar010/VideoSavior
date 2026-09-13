@@ -1,5 +1,9 @@
 # VideoSavior
 
+**Live:** https://videosavior.onrender.com (free-tier hosting — spins down
+after 15 min idle, so the first request after a quiet period takes ~30-50s
+to wake up)
+
 A self-hosted media downloader — paste a link, get an MP4 or MP3. Built as a
 sharper take on [reclip](https://github.com/averygan/reclip): same idea (a thin
 Flask + yt-dlp + ffmpeg app, no build step, no framework), better interface and
@@ -62,6 +66,20 @@ Then open http://localhost:5050.
 docker build -t videosavior .
 docker run -p 5050:5050 videosavior
 ```
+
+### Deploy (Render, free)
+
+`render.yaml` and the `Dockerfile` are ready as-is — Render's Docker runtime
+installs ffmpeg and dependencies automatically. In Render: **New → Blueprint**
+→ connect this repo → **Deploy Blueprint**. No environment variables needed;
+`PORT` is injected by Render and read in `app.py`.
+
+## Analytics
+
+Page views and clicks are tracked via [PostHog](https://posthog.com) (see the
+snippet in `templates/index.html`). View them in the PostHog dashboard under
+**Web analytics** (traffic overview), **Activity** (live event stream), or
+**Persons** (per-visitor sessions/location/device).
 
 ## How it works
 
